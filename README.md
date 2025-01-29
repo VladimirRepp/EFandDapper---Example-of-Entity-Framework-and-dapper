@@ -3,7 +3,6 @@ Example of Entity Framework and dapper
 
 Using:
 - EF 6
-- Models: code first, model ferst, DB first
 - C#
 - Win Forms
 - .Net Framework
