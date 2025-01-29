@@ -1,0 +1,42 @@
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\Sample_0.exe.config
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\Sample_0.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\Sample_0.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\EntityFramework.dll
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\EntityFramework.xml
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\ru\EntityFramework.resources.dll
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.AssemblyReference.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CoreCompileInputs.cache
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CopyComplete
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\obj\Debug\Sample_0.exe
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\obj\Debug\Sample_0.pdb
+E:\MVS\MVS 2022\Projects\C#\ItTop\ADO.Net\Модуль 6 (EF,\Sample_0\Sample_0\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\Sample_0.exe.config
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\Sample_0.exe
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\Sample_0.pdb
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.dll
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.SqlServer.dll
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.xml
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.SqlServer.xml
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\ru\EntityFramework.resources.dll
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.AssemblyReference.cache
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CoreCompileInputs.cache
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CopyComplete
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.exe
+E:\ItTop\ADO.Net - технология доступа к БД\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.pdb
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\Sample_0.exe.config
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\Sample_0.exe
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\Sample_0.pdb
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.dll
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.SqlServer.dll
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.xml
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\EntityFramework.SqlServer.xml
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\ru\EntityFramework.resources.dll
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.AssemblyReference.cache
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CoreCompileInputs.cache
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CopyComplete
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.exe
+E:\ItTop\ADO.Net - технология доступа к БД\ADO.Net\MVS projects\Модуль 6 (EF, dapper)\Sample_0\Sample_0\obj\Debug\Sample_0.pdb
